@@ -1,0 +1,9 @@
+{
+  "name": "MY MONEY 가계부",
+  "short_name": "MY MONEY",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f6f6",
+  "theme_color": "#171717",
+  "lang": "ko"
+}
